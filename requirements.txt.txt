@@ -1,0 +1,7 @@
+google
+google.genai
+gtts
+wave
+streamlit
+pandas
+PyPDF2
